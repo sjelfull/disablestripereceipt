@@ -1,0 +1,14 @@
+{
+	"name": "sjelfull/disablestripereceipt",
+	"description": "This plugin does one thing: disables Stripe receipt e-mail when using Stripe with Commerce.",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Fred Carlsen",
+			"homepage": "https://superbig.co"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
